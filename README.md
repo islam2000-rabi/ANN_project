@@ -23,7 +23,7 @@ This project applies deep learning techniques to predict diabetes outcomes using
 
 ---
 
->## echnologies Used
+>## Technologies Used
 
 - Python 
 - Pandas & NumPy
